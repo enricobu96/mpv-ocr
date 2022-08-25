@@ -1,0 +1,8 @@
+# mpv-ocr
+
+OCR (Optical Character Recognition) plugin for MPV.
+
+Requirements:
+
+- `tesseract`
+- `libtesseract`
